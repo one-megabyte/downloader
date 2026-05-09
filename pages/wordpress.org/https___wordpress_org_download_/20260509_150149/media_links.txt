@@ -1,0 +1,5 @@
+https://s.w.org/images/wmark.png
+https://wordpress.org/latest.zip
+https://wordpress.org/wp-content/mu-plugins/pub-sync/blocks/global-header-footer/images/code-is-poetry-for-light-bg.svg
+https://wordpress.org/wp-content/themes/pub/wporg-main/images/badge-apple.png
+https://wordpress.org/wp-content/themes/pub/wporg-main/images/badge-google-play.png
